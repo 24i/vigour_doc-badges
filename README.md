@@ -1,5 +1,6 @@
-*This repo is still in design phase and is currently unusable. Please check back later!*
-
+[![Build Status](https://travis-ci.org/vigour-io/doc-badges.svg?branch=master)](https://travis-ci.org/vigour-io/doc-badges)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![npm version](https://badge.fury.io/js/vigour-doc-badges.svg)](https://badge.fury.io/js/vigour-doc-badges)
 # doc-badges
 Generates `.md` badges
 
