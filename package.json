@@ -1,0 +1,34 @@
+{
+  "name": "vigour-doc-badges",
+  "version": "1.0.0",
+  "description": "Generates `.md` badges",
+  "main": "lib/",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigour-io/doc-badges.git"
+  },
+  "keywords": [
+    "vigour",
+    "doc",
+    "docs",
+    "vigour-doc",
+    "badges",
+    "travis",
+    "standard",
+    "npm"
+  ],
+  "author": "Vigour <dev@vigour.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigour-io/doc-badges/issues"
+  },
+  "homepage": "https://github.com/vigour-io/doc-badges#readme",
+  "contributors": [
+    "Shawn Inder <shawn@vigour.io>"
+  ],
+  "dependencies": {},
+  "engines": {}
+}
