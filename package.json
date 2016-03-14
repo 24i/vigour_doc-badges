@@ -29,6 +29,11 @@
   "contributors": [
     "Shawn Inder <shawn@vigour.io>"
   ],
-  "dependencies": {},
-  "engines": {}
+  "dependencies": {
+    "lodash.template": "^4.2.2"
+  },
+  "engines": {},
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
 }
