@@ -26,10 +26,12 @@
     "url": "https://github.com/vigour-io/doc-badges/issues"
   },
   "homepage": "https://github.com/vigour-io/doc-badges#readme",
+  "docs": "https://github.com/vigour-io/doc-badges/tree/master/docs",
   "contributors": [
     "Shawn Inder <shawn@vigour.io>"
   ],
   "dependencies": {
+    "chalk": "^1.1.3",
     "lodash.template": "^4.2.2"
   },
   "engines": {},
