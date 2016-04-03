@@ -3,7 +3,9 @@
 [![Build Status](https://travis-ci.org/vigour-io/doc-badges.svg?branch=master)](https://travis-ci.org/vigour-io/doc-badges)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![npm version](https://badge.fury.io/js/vigour-doc-badges.svg)](https://badge.fury.io/js/vigour-doc-badges)
+
 <!-- VDOC END -->
+
 # doc-badges
 Generates `.md` badges
 
