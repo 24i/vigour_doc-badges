@@ -74,5 +74,16 @@ var options = {
 ```
 - **package** : npm package name
 
+### coveralls
+```javascript
+var options = {
+  owner: '<githubOwner>', // vigour-io
+  repo: '<githubRepo>', // doc-badges
+  branch: '<branchName>' // master
+}
+```
+
+**Important!** In order to configure coveralls check out [docs](docs/coveralls.md)!
+
 ### ...
 more coming soon, stay tuned!
