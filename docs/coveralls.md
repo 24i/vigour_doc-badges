@@ -48,3 +48,7 @@ branches:
     - master
     - develop
 ```
+
+## Coveralls.io
+The last step is to enable the repo you want on [Coveralls](https://coveralls.io).
+You need to login with your github account and give access permission to your user and organization you'd like to have coveralls reports. After that, you need to tick the repos you want displayed on the page. If the repo doesn't show up, try syncing it again. **Remember** that public repositories are for free and you need a pro account for private ones :)
